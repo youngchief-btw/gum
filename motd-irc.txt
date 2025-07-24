@@ -5,11 +5,8 @@
    __/ |                
   |___/                  on..yc irc!
 
-  plain: gum:6667
-  tls: gum:6697
-
-  ws: gum/ws/irc
-  ws+tls: gum/ws/irc-tls
+  plain: gum:6667 // tls: gum:6697
+  ws: gum/ws/irc // ws+tls: gum/ws/irc-tls
 
   net-wide rules: irc.youngchief.xyz/rules
   gum specific:
