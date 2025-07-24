@@ -1,0 +1,30 @@
+   __ _ _   _ _ __ ___  
+  / _` | | | | '_ ` _ \ 
+ | (_| | |_| | | | | | |
+  \__, |\__,_|_| |_| |_|
+   __/ |                
+  |___/                  on..yc irc!
+
+  plain: gum:6667
+  tls: gum:6697
+
+  ws: gum/ws/irc
+  ws+tls: gum/ws/irc-tls
+
+  net-wide rules: irc.youngchief.xyz/rules
+  gum specific:
+
+  - friendly bots are allowed to
+    be configured to point here
+  - low-volume chat bridges are
+    welcome too, just be reasonable
+  - don't use this node as your point
+    of network connection if your going
+    to use lots of system resources
+
+  we reserve the right to deny service,
+  to anyone, at any time, for any reason.
+  thank you, and enjoy your stay!
+
+  e-mail: (user) gum (host) youngchief.xyz
+  irc: #gum @ yc (a.k.a. this server)
